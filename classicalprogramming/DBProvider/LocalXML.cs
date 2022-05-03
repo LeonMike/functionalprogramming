@@ -10,7 +10,7 @@ namespace classicalprogramming.DBProvider
 {
     public class LocalXML : DBProvider
     {
-        public string ConnectionString { get; set; } = @"basedirectory=E:\git\functionalprogramming\functionalprogrammingcsharp";
+        public string ConnectionString { get; set; } = @"basedirectory=E:\git\functionalprogramming";
         public List<Project> Projects { get; set; } = new List<Project>();
         public List<Piece> Pieces { get; set; } = new List<Piece>();
 
