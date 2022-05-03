@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Projects>
+  <Project>
+    <Ids>0</Ids>
+    <Names>Proyecto inicial</Names>
+    <Data>Empty data</Data>
+  </Project>
+  <Project>
+    <Id>1</Id>
+    <Name>mid project</Name>
+    <Data>some dat</Data>
+  </Project>
+  <Project>
+    <Id>2</Id>
+    <Name>final prj</Name>
+    <Data>datos full</Data>
+  </Project>
+</Projects>

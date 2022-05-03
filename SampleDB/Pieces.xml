@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pieceses>
+  <Piece>
+    <Id>0</Id>
+    <Name>pieza inicial</Name>
+    <Data>Empty data :o</Data>
+  </Piece>
+  <Piece>
+    <Id>1</Id>
+    <Name>mid piece</Name>
+    <Data>some dat xD</Data>
+  </Piece>
+  <Piece>
+    <Id>2</Id>
+    <Name>final pis xD</Name>
+    <Data>datos full :p</Data>
+  </Piece>
+</Pieceses>
